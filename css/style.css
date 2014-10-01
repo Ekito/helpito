@@ -721,7 +721,7 @@ strong {
     width: 60px
 }
 .main .logo{
-    color: #FFFFFF;
+    color: #009EE0;
     font-size: 56px;
     font-weight: 300;
     position: relative;
@@ -732,7 +732,7 @@ strong {
 }
 .main .logo.cursive{
     font-family: 'Grand Hotel',cursive;
-    font-size: 82px;
+    font-size: 102px;
 
 }
 .main .content{
@@ -795,6 +795,9 @@ strong {
     z-index: 4;
     text-align: right;
     margin-top: 50px;
+}
+.footer .heart{
+    color: #FF3B30;
 }
 .footer a{
     color: #009EE0;
