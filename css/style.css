@@ -668,31 +668,6 @@ strong {
     top: 0;
     width: auto;
 }
-.cover{
-    position: fixed;
-    opacity: 1;
-    background-color: rgba(0,0,0,.6);
-    left: 0px;
-    top: 0px;
-    width: 100%;
-    height: 100%;
-    z-index: 1;
-}
-.cover.black{
-    background-color: rgba(0,0,0,.3);
-}
-.cover.blue{
-    background-color: rgba(5, 31, 60, 0.3);
-}
-.cover.green{
-    background-color: rgba(3, 28, 7, 0.3);
-}
-.cover.orange{
-    background-color: rgba(37, 28, 5, 0.3);
-}
-.cover.red{
-    background-color: rgba(35, 3, 2, 0.3);
-}
 
 .blur{
   opacity:0;
